@@ -1,0 +1,148 @@
+[
+  {
+    "id": "singapore-city-and-southern-ridges",
+    "slug": "singapore-city-and-southern-ridges",
+    "name": "Singapore City & Southern Ridges",
+    "location": "Singapore",
+    "image": "singapore.png",
+    "imageAlt": "image of Singapore City & Southern Ridges",
+    "summary": "Spend four days exploring Singapore's hawker centres, historic districts and leafy Southern Ridges walking trails.",
+    "durationDays": 4,
+    "pricePerPerson": { "amount": 1240, "currency": "USD" },
+    "tags": ["City", "Nature"],
+    "rating": 4.8
+  },
+  {
+    "id": "mount-roraima-cloud-forest-trek",
+    "slug": "mount-roraima-cloud-forest-trek",
+    "name": "Mount Roraima Trek",
+    "location": "Canaima, Venezuela",
+    "image": "roraima.png",
+    "imageAlt": "image of Mount Roraima Trek",
+    "summary": "Join a guided eight-day expedition across the Gran Sabana to the summit plateau of Mount Roraima, with staffed camps along the route.",
+    "durationDays": 8,
+    "pricePerPerson": { "amount": 2380, "currency": "USD" },
+    "tags": ["Guided trek", "Adventure"],
+    "rating": 4.9
+  },
+  {
+    "id": "socotra-island-nature-expedition",
+    "slug": "socotra-island-nature-expedition",
+    "name": "Socotra Island Expedition",
+    "location": "Socotra, Yemen",
+    "image": "socotra.png",
+    "imageAlt": "image of Socotra Island Expedition",
+    "summary": "Explore Socotra's dragon blood trees, limestone caves and remote beaches on a locally guided week-long island circuit.",
+    "durationDays": 7,
+    "pricePerPerson": { "amount": 2890, "currency": "USD" },
+    "tags": ["Nature", "Expedition"],
+    "rating": 4.7
+  },
+  {
+    "id": "lake-baikal-winter-journey",
+    "slug": "lake-baikal-winter-journey",
+    "name": "Lake Baikal Winter Journey",
+    "location": "Irkutsk Oblast, Russia",
+    "image": "baikal.png",
+    "imageAlt": "image of Lake Baikal Winter Journey",
+    "summary": "A ten-day small-group winter itinerary with an experienced local guide, frozen-lake viewpoints and stays in Irkutsk and Listvyanka.",
+    "durationDays": 10,
+    "pricePerPerson": { "amount": 3160, "currency": "USD" },
+    "tags": ["Winter", "Small group"],
+    "rating": 4.8
+  },
+  {
+    "id": "anse-source-dargent-seychelles",
+    "slug": "anse-source-dargent-seychelles",
+    "name": "Anse Source d’Argent Escape",
+    "location": "La Digue, Seychelles",
+    "image": "seychelles.png",
+    "imageAlt": "image of Anse Source d’Argent Escape",
+    "summary": "Unhurried days on La Digue with bicycle hire, a guided coastal walk and time to swim at Anse Source d’Argent.",
+    "durationDays": 6,
+    "pricePerPerson": { "amount": 2740, "currency": "USD" },
+    "tags": ["Island stay", "Beach"],
+    "rating": 4.9
+  },
+  {
+    "id": "aysen-patagonia-wilderness",
+    "slug": "aysen-patagonia-wilderness",
+    "name": "Aysén Patagonia Wilderness",
+    "location": "Aysén, Chile",
+    "image": "aysen.png",
+    "imageAlt": "image of Aysén Patagonia Wilderness",
+    "summary": "Follow a seven-day road itinerary along the Carretera Austral, with lodge stays, short guided hikes and time beside General Carrera Lake.",
+    "durationDays": 7,
+    "pricePerPerson": { "amount": 3290, "currency": "USD" },
+    "tags": ["Road trip", "Hiking"],
+    "rating": 4.8
+  },
+  {
+    "id": "taman-negara-rainforest-trail",
+    "slug": "taman-negara-rainforest-trail",
+    "name": "Taman Negara Rainforest Trail",
+    "location": "Pahang, Malaysia",
+    "image": "taman-negara.png",
+    "imageAlt": "image of Taman Negara Rainforest Trail",
+    "summary": "Spend four days in Malaysia's rainforest with a licensed naturalist, including a canopy walkway visit and a river journey to a village.",
+    "durationDays": 4,
+    "pricePerPerson": { "amount": 980, "currency": "USD" },
+    "tags": ["Rainforest", "Guided"],
+    "rating": 4.7
+  },
+  {
+    "id": "zhangye-danxia-geopark",
+    "slug": "zhangye-danxia-geopark",
+    "name": "Zhangye Danxia Geopark",
+    "location": "Gansu, China",
+    "image": "zhangye.png",
+    "imageAlt": "image of Zhangye Danxia Geopark",
+    "summary": "A five-day guided visit to Zhangye Danxia's colourful sandstone formations, with a local driver and two nights near the geopark.",
+    "durationDays": 5,
+    "pricePerPerson": { "amount": 1560, "currency": "USD" },
+    "tags": ["Geology", "Small group"],
+    "rating": 4.8
+  },
+  {
+    "id": "japan-highlights-culture-food-adventure",
+    "slug": "japan-highlights-culture-food-adventure",
+    "name": "5-Day Japan Highlights: Culture, Food and Adventure",
+    "location": "Tokyo, Kyoto, Osaka",
+    "image": "japan-detail-main.png",
+    "imageAlt": "image of Tokyo, Hakone, Kyoto and Osaka highlights on a five-day Japan itinerary",
+    "summary": "Experience Japan in five days, from Tokyo's neighbourhoods and Kyoto's historic temples to Osaka's lively food scene. Travel between cities by Shinkansen and unwind with an optional Hakone onsen visit.",
+    "durationDays": 5,
+    "pricePerPerson": { "amount": 604, "currency": "USD" },
+    "tags": ["Luxury", "Culture", "Food", "Guided"],
+    "rating": 4.9,
+    "subtitle": "Luxury, Diversity, and Harmony",
+    "detailHeading": "5-Day Japan Adventure",
+    "routeCities": ["Tokyo", "Hakone", "Kyoto", "Osaka"],
+    "gallery": [
+      { "image": "japan-detail-main.png", "alt": "image of a tropical shoreline at sunset, framed by green hills and palms" },
+      { "image": "japan-detail-city.png", "alt": "image of a lit resort building and swimming pool reflected in the water at dusk" },
+      { "image": "japan-detail-coast.png", "alt": "image of white sand and clear turquoise water beneath palm trees on a tropical beach" }
+    ],
+    "itinerary": [
+      { "day": 1, "title": "Arrival in Tokyo and Shibuya", "activities": ["Arrive at Narita or Haneda Airport and check in to your hotel.", "Visit Shibuya Crossing and the Hachiko statue.", "See the city from the Tokyo Metropolitan Government Building.", "Have dinner at an izakaya in Golden Gai."] },
+      { "day": 2, "title": "Tokyo sightseeing and culture", "activities": ["Visit Senso-ji Temple in Asakusa.", "Explore Akihabara's electronics and anime shops.", "Walk around Tokyo Tower and Roppongi in the evening."] },
+      { "day": 3, "title": "Hakone and views of Mount Fuji", "activities": ["Ride the Hakone Ropeway for views across the area.", "Relax at an onsen hot spring.", "Visit Lake Ashi and look for Mount Fuji on a clear day."] },
+      { "day": 4, "title": "Kyoto temples and history", "activities": ["Travel to Kyoto by Shinkansen bullet train.", "Walk through the torii gates at Fushimi Inari Shrine.", "Explore the Gion district in the evening."] },
+      { "day": 5, "title": "Osaka shopping and departure", "activities": ["Travel from Kyoto to Osaka and leave your luggage at the hotel.", "Explore the shops and food stalls around Shinsaibashi.", "Travel to Kansai International Airport (KIX) for your departure."] }
+    ],
+    "bestTimeToVisit": [
+      { "season": "Spring", "months": "March–May", "description": "Cherry blossoms and mild temperatures." },
+      { "season": "Autumn", "months": "September–November", "description": "Autumn leaves and comfortable walking weather." },
+      { "season": "Winter", "months": "December–February", "description": "Quieter temples and possible snow in Kyoto." },
+      { "season": "Summer", "months": "June–August", "description": "Hot, humid days and seasonal festivals." }
+    ],
+    "weather": [
+      { "season": "Spring", "temperatureCelsius": "10–20°C", "temperatureFahrenheit": "50–68°F" },
+      { "season": "Summer", "temperatureCelsius": "22–33°C", "temperatureFahrenheit": "72–91°F" },
+      { "season": "Autumn", "temperatureCelsius": "12–25°C", "temperatureFahrenheit": "54–77°F" },
+      { "season": "Winter", "temperatureCelsius": "0–10°C", "temperatureFahrenheit": "32–50°F" }
+    ],
+    "mapImage": "japan-detail-map.png",
+    "mapAlt": "image of a map of central Japan marking Kyoto, Arashiyama Bamboo Forest, Fushimi Inari Taisha, Otsu and Lake Biwa"
+  }
+]
